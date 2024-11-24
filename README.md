@@ -9,10 +9,13 @@
 - **Reset Viewport Color**: Set the viewport display color of selected objects to white (#FFFFFF).
 
 ## Installation
-1. Download the `ClearMaster.py` file from this repository.
-2. Open Blender and go to `Edit > Preferences > Add-ons`.
-3. Click on `Install...`, locate the downloaded `.py` file, and enable the add-on.
-4. The tools will appear in the **Tool** tab under the **ClearMaster** panel.
+1. Click the green **Code** button on this repository page, then select **Download ZIP**.
+2. Extract the downloaded ZIP file (e.g., `ClearMaster-main.zip`) to a folder on your computer.
+3. Inside the extracted folder, locate the `ClearMaster( version ).zip` file. Do **not** extract this file.
+4. Open Blender and go to `Edit > Preferences > Add-ons`.
+5. Click on **Install...**, navigate to the `ClearMaster.zip` file, and select it.
+6. Enable the add-on by checking the box next to "ClearMaster" in the add-ons list.
+7. The tools will appear in the **Tool** tab under the **ClearMaster** panel.
 
 ## Usage
 1. Select the objects you want to clean up in the 3D View.
