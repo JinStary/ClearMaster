@@ -1,6 +1,7 @@
 # ClearMaster
 
-**ClearMaster** is a Blender add-on designed to streamline the cleanup of selected objects. It provides tools to clear materials, vertex groups, shape keys, and reset viewport display colors, helping you keep your projects organized and efficient.
+**ClearMaster** is a Blender add-on designed to streamline the cleanup of selected objects.
+It provides tools to clear materials, vertex groups, shape keys, and reset viewport display colors, helping you keep your projects organized and efficient.
 
 ## Features
 - **Clear Materials**: Remove all materials from selected objects, including empty and non-empty slots.
