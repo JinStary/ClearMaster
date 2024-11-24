@@ -11,7 +11,7 @@
 ## Installation
 1. Click the green **Code** button on this repository page, then select **Download ZIP**.
 2. Extract the downloaded ZIP file (e.g., `ClearMaster-main.zip`) to a folder on your computer.
-3. Inside the extracted folder, locate the `ClearMaster( version ).zip` file. Do **not** extract this file.
+3. Inside the extracted folder, locate the `ClearMaster.zip` file. Do **not** extract this file.
 4. Open Blender and go to `Edit > Preferences > Add-ons`.
 5. Click on **Install...**, navigate to the `ClearMaster.zip` file, and select it.
 6. Enable the add-on by checking the box next to "ClearMaster" in the add-ons list.
@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Developed by **StarStudio**. For feedback or suggestions, please open an issue on GitHub.
+Developed by **星懿**. For feedback or suggestions, please open an issue on GitHub.
