@@ -7,7 +7,6 @@
 - **Clear Vertex Groups**: Delete all vertex groups from selected objects.
 - **Clear Shape Keys**: Remove all shape keys, including the Basis shape.
 - **Reset Viewport Color**: Set the viewport display color of selected objects to white (#FFFFFF).
-- **Integrated UI**: Access these tools conveniently through a dedicated panel in the 3D View.
 
 ## Installation
 1. Download the `ClearMaster.py` file from this repository.
